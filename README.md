@@ -24,6 +24,7 @@ Confira meu portfólio completo:
 
 ### 👨‍💻 Linguagens
 
+* C/C++
 * C#
 * Python
 * JavaScript
