@@ -75,7 +75,7 @@ Confira meu portfólio completo:
 ## 📫 Contato
 
 * 📧 Email: [fer.1972@hotmail.com](mailto:fer.1972@hotmail.com)
-* 📱 WhatsApp: +55 (18) 99779-8490
+* 📱 WhatsApp: [+55 (18) 99779-8490](https://api.whatsapp.com/send?phone=5518997798490)
 * 💼 LinkedIn: https://www.linkedin.com/in/carlos-fernando
 * 💻 GitHub: https://github.com/CaboFernando
 
